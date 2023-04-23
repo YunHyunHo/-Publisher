@@ -4,9 +4,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
 @font-face {font-family:MalgunGothic; src:url(/font/MalgunGothic.eot);}
 /* main start */
-#wrap{height: 500%;}
+#wrap{height: 600%;}
 main{width: 100%; height: 100%;}
-section{width: 100%; height: 20%; position: relative;}
+section{width: 100%; height: 16.6666%; position: relative;}
 h2{width: 100%; position: sticky; top: 0; text-align: center; font-size: 45px; font-family: 'Poppins', sans-serif; box-sizing: border-box;}
 button{font-family: 'Noto Sans KR', sans-serif;}
 .sub_text{font-size: 28px;}
